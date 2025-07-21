@@ -2,6 +2,7 @@
   "active": true,
   "message": "Extension is valid",
   "allowedIds": [
-    ["DATNH", "84a7ded5-e9a6-4ece-93e8-1d175687d070"]
+    ["DATNH", "84a7ded5-e9a6-4ece-93e8-1d175687d070"],
+    ["DATNH", "84a7ded5-e9a6-4ece-93e8-1d175687d0702"]
 ]
 }
